@@ -1,5 +1,5 @@
 
-![Lander](https://raw.githubusercontent.com/landerfinance/landerfinance/master/images/bg.jpg)
+![Lander](https://raw.githubusercontent.com/landerfinance/landerfinance/master/bg1.jpg)
 
 ### Hi there, it's [Lander finance](https://lander.finance/) 👋
 
